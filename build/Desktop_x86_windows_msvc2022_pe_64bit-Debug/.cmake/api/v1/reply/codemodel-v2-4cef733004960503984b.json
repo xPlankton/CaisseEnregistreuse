@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-ab5472670452eaf13a42.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "playing_around",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "playing_around::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-playing_around-Debug-7e4268f433282d37e4b1.json",
+					"name" : "playing_around",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "playing_around_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-playing_around_autogen-Debug-55cc5ff35bb093f76f68.json",
+					"name" : "playing_around_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "playing_around_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-playing_around_autogen_timestamp_deps-Debug-e61113edfd2546574a6d.json",
+					"name" : "playing_around_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/natha/Qt/playing_around/build/Desktop_x86_windows_msvc2022_pe_64bit-Debug",
+		"source" : "C:/Users/natha/Qt/playing_around"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
